@@ -1,2 +1,2 @@
 # Mathematics
-Thinking rethings; formal thoughts and murmurings.
+Thinking things; formal thoughts and murmurings.
