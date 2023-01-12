@@ -1,3 +1,3 @@
 # Mathematics
 
-The [real numbers](https://github.com/MagnusArxNilsen/Maths/blob/main/REAL-NUMBERS.md) redefined, an exception fix.
+The [real numbers](https://github.com/MagnusArxNilsen/Maths/blob/main/REAL-NUMBERS.md) redefined, fixes the exception.
